@@ -1,2 +1,2 @@
 # ManEquip
- Manutenção de equipamentos 
+Sistema para  Manutenção de equipamentos 
